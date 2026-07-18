@@ -12,7 +12,7 @@ export default defineConfig({
                     icon: "github",
                     label: "Library",
                     href: "https://github.com/Pre1ude0/cli-aware",
-                }
+                },
                 {
                     icon: "document",
                     label: "Docs",

@@ -1,0 +1,7 @@
+{
+    "name": "cli-aware-docs",
+    "compatibility_date": "2026-07-18", // Update to the day you deploy
+    "assets": {
+        "directory": "./dist",
+    },
+}
